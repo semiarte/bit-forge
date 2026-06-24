@@ -1,0 +1,6 @@
+{
+  "name": "Retro Character Spritesheet Generator",
+  "description": "Generate 16-bit Super NES and Sega Mega Drive style pixel art characters and export them as transparent spritesheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
